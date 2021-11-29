@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "73254621691",
+    "project_id": "apnakhaata-d5690",
+    "storage_bucket": "apnakhaata-d5690.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73254621691:android:b1fa3eb4338fba31583b5e",
+        "android_client_info": {
+          "package_name": "com.test.creditinfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73254621691-plj912i9i79ikfllqvo84k7ss62g7742.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.test.creditinfo",
+            "certificate_hash": "e035e864257fed8b05d14cc0abdd01647caeee89"
+          }
+        },
+        {
+          "client_id": "73254621691-j32v35nda97o1o85am00gg043i34halg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwmqUbS9ILNn6TUjk6W8pLFXPtMYhoeao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73254621691-j32v35nda97o1o85am00gg043i34halg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
